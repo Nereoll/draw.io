@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T14:43:27.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="pLhaU_D1_Kv6JjLlDS4_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T14:49:06.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="ue5bOUAj-VxigrdbXh3e" version="24.2.3" type="github">
   <diagram name="Page-1" id="WHO5cMsDMsLjXfPXbsgw">
     <mxGraphModel dx="1062" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,8 +138,17 @@
             <mxPoint x="15" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3_qst0NbUyWHlaPV9hMc-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_qst0NbUyWHlaPV9hMc-63" target="3_qst0NbUyWHlaPV9hMc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3_qst0NbUyWHlaPV9hMc-63" value="Dossier salarié" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_qst0NbUyWHlaPV9hMc-65" value="&lt;div&gt;Demande de &lt;br&gt;&lt;/div&gt;&lt;div&gt;formation&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_qst0NbUyWHlaPV9hMc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_qst0NbUyWHlaPV9hMc-65" target="3_qst0NbUyWHlaPV9hMc-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
