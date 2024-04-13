@@ -1,23 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T10:37:53.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="CjaCRlHCTq9Qy8gm5SEW" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T10:47:14.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Euifg7SRXyqVC4Vo133Q" version="24.2.3" type="github">
   <diagram name="Page-1" id="r1wThmXf7OmxA-zegNH7">
     <mxGraphModel dx="1274" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MVSJn5GeIBWJByS9rbYB-1" value="&lt;div&gt;enseignant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="30" height="60" as="geometry" />
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-8" value="&lt;div&gt;3 Java : révision des concepts orientés objets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MVSJn5GeIBWJByS9rbYB-4" value="2 Diagramme de cas d&#39;utilisation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry width="200" height="30" as="geometry" />
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-9" value="CdAudio" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="390" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MVSJn5GeIBWJByS9rbYB-5" value="Réservation d&#39;une salle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="140" height="70" as="geometry" />
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-10" value="&lt;div&gt;- artiste : String&lt;/div&gt;&lt;div&gt;- titre : String&lt;/div&gt;&lt;div&gt;- année : int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-9">
+          <mxGeometry y="26" width="390" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="MVSJn5GeIBWJByS9rbYB-6" value="Réservation de matériel pédagogique" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="140" height="70" as="geometry" />
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-9">
+          <mxGeometry y="100" width="390" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="MVSJn5GeIBWJByS9rbYB-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="30" height="60" as="geometry" />
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-12" value="&lt;div&gt;+ CdAudio(artiste : String, titre : String, annee : int, production : String)&lt;/div&gt;&lt;div&gt;+ afficheInfos()&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-9">
+          <mxGeometry y="108" width="390" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-13" value="MaisonProduction" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="50" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-14" value="&lt;div&gt;- nom : String&lt;/div&gt;&lt;div&gt;- adresse : String&lt;/div&gt;&lt;div&gt;- url : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-13">
+          <mxGeometry y="26" width="350" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-13">
+          <mxGeometry y="80" width="350" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-16" value="&lt;div&gt;+ MaisonProduction(nom : String, adresse : String; url : String)&lt;/div&gt;&lt;div&gt;+ getNom() : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MVSJn5GeIBWJByS9rbYB-13">
+          <mxGeometry y="88" width="350" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="MVSJn5GeIBWJByS9rbYB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVSJn5GeIBWJByS9rbYB-10" target="MVSJn5GeIBWJByS9rbYB-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
