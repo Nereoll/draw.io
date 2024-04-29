@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T13:10:45.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="T1j2uBohYgLL_MIf4Cm0" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T13:18:57.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="wC8stgAKDEQRu_4gOCky" version="24.2.5" type="github">
   <diagram name="Page-1" id="WHO5cMsDMsLjXfPXbsgw">
-    <mxGraphModel dx="3168" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oglI9BCuFXkfBV5GbW_k-55" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="70" width="600" height="688" as="geometry" />
+        </mxCell>
         <mxCell id="3_qst0NbUyWHlaPV9hMc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3_qst0NbUyWHlaPV9hMc-25" target="3_qst0NbUyWHlaPV9hMc-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -271,7 +274,7 @@
           <mxGeometry x="-650" y="498" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oglI9BCuFXkfBV5GbW_k-23" value="Demande validée" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="750" width="170" height="60" as="geometry" />
+          <mxGeometry x="-790" y="770" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oglI9BCuFXkfBV5GbW_k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oglI9BCuFXkfBV5GbW_k-26" target="oglI9BCuFXkfBV5GbW_k-15">
           <mxGeometry relative="1" as="geometry" />
@@ -323,7 +326,13 @@
           <mxGeometry x="-190" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oglI9BCuFXkfBV5GbW_k-47" value="&lt;div&gt;Acteurs : &lt;br&gt;&lt;/div&gt;&lt;div&gt;Salariés&lt;/div&gt;&lt;div&gt;Chef de service&lt;/div&gt;&lt;div&gt;Responsable de fourniture&lt;/div&gt;&lt;div&gt;Service fourniture&lt;/div&gt;&lt;div&gt;Fournisseurs&lt;/div&gt;&lt;div&gt;Service comptable&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-994" y="840" width="167" height="120" as="geometry" />
+          <mxGeometry x="-713.5" y="880" width="167" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oglI9BCuFXkfBV5GbW_k-53" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="210" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oglI9BCuFXkfBV5GbW_k-54" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="170" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
