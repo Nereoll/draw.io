@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T13:07:04.347Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="nhaqLd96d9QnBw73qvIt" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T13:08:50.597Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="IekJf0UNz4g8oeTuu-et" version="24.3.1" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="1973" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-730" y="300" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0vhhkYOt-qyEH0Bgxad_-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" parent="1" vertex="1">
-          <mxGeometry x="-725" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="-732.5" y="300" width="35" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0vhhkYOt-qyEH0Bgxad_-6" value="&lt;div&gt;Diagramme de cas D&#39;utilisation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=50;" parent="1" vertex="1">
           <mxGeometry x="-640" y="130" width="440" height="480" as="geometry" />
