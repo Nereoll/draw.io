@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T09:19:58.555Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ElVjqEgpVxzyjzhqlfFq" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:20:15.976Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ifykKe3msTCti_49wr_6" version="24.4.6" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="6760" dy="3240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3794" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
         <mxCell id="HHiWm6_Z4Rj82QOO5koe-75" value="batiment = Fac de droit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-72" vertex="1">
           <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-74" edge="1">
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=-0.001;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-74" target="HHiWm6_Z4Rj82QOO5koe-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="1550" as="targetPoint" />
           </mxGeometry>
