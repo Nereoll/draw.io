@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:02:33.115Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="EE82mJ0R_jxGbwneEC7a" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:03:12.783Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="SDZLTxsODBpSCQE7-tNT" version="24.4.10" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="2309" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3028" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,23 +600,23 @@
         <mxCell id="55kUeNKomVq2vSDQPSkZ-11" value="&lt;span id=&quot;docs-internal-guid-b78a35e0-7fff-13e5-1993-30749712ec3f&quot; style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;UC5 Créer un compte pour une structure&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2049.25" y="1697.5" width="271" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="55kUeNKomVq2vSDQPSkZ-14" value="&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setNom()&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setAdresse() setHeureOuverture()&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setHeureFermeture()&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setCapacite()&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setEmail()&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;setNumeroTel()&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="55kUeNKomVq2vSDQPSkZ-14" value="&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setNom()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setType()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setAdresse()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setDescription()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setHeureOuverture()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setHeureFermeture()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setCapacite()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEmail()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setNumeroTel()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setImage()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setExtérieur()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setRooftop()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEtage()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEtoile()&lt;br&gt;&lt;/p&gt;+setAvis()" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2191.5" y="1911.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="55kUeNKomVq2vSDQPSkZ-18" value="&lt;span id=&quot;docs-internal-guid-b1b4177d-7fff-79b1-9c31-2b294f1782c9&quot; style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;UC4 Créer un compte de BDE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2037.5" y="1250" width="296" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-2" value="- date" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-2" value="- date" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="958" y="482" width="110" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-52">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1153" y="507" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-4" value="evenements n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M72lRbQ_tTJJ8ZMXWCu-3">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-4" value="evenements n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0M72lRbQ_tTJJ8ZMXWCu-3" vertex="1" connectable="0">
           <mxGeometry x="-0.8927" y="3" relative="1" as="geometry">
             <mxPoint x="50" y="-87" as="offset" />
           </mxGeometry>
