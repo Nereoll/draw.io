@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:58:54.295Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="FXYnK3CQyq5UhMvSIGtf" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:01:31.254Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="4m6jr01Q-GEU3TAATlIQ" version="24.4.10" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="2863" dy="990" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,10 +402,10 @@
           <mxGeometry y="98" width="160" height="142" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-63" value="structures" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2303" y="463" width="65" height="26" as="geometry" />
+          <mxGeometry x="2305" y="468" width="65" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-64" value="1, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2318" y="496" width="40" height="26" as="geometry" />
+          <mxGeometry x="2320.25" y="490.5" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-65" value="0, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2175" y="639.5" width="40" height="26" as="geometry" />
@@ -425,7 +425,7 @@
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-72" value="1, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="515.5" width="41" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=0;" parent="1" source="X9ht4_rMk5e_lSbH_QnD-73" target="X9ht4_rMk5e_lSbH_QnD-56" edge="1">
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;curved=0;" parent="1" source="X9ht4_rMk5e_lSbH_QnD-73" target="X9ht4_rMk5e_lSbH_QnD-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2109" y="790" />
@@ -434,16 +434,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-73" value="Calendrier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2037.5" y="806.5" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-74" value="&lt;div&gt;- Dates : Hasmap&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-73" vertex="1">
-          <mxGeometry y="26" width="140" height="44" as="geometry" />
+          <mxGeometry x="1863" y="817" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-79" value="evenements&amp;nbsp;&amp;nbsp;&amp;nbsp; n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2030" y="739.5" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-80" value="&lt;div&gt;+Calendrier&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getDate() : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setDate() &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ dateLibre() : bool&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2037.5" y="876.5" width="140" height="110" as="geometry" />
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-80" value="&lt;div&gt;-date&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+Calendrier&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getDate() : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setDate() &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ dateLibre() : bool&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1874" y="870" width="112.5" height="147" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-82" value="evenementsOrganises&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="284" width="160" height="26" as="geometry" />
