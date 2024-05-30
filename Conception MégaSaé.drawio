@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:43:01.455Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="E32L8wc58R7WxWBcSXdJ" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:43:33.501Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="4GVd_X2nLhpr3tw4bfsw" version="24.4.10" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
     <mxGraphModel dx="1669" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="3woJ1IVH_2ueYjXW4H0O-25" value="- formation : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-12" vertex="1">
           <mxGeometry y="82" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3woJ1IVH_2ueYjXW4H0O-26" value="- bâtiment : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-12" vertex="1">
+        <mxCell id="3woJ1IVH_2ueYjXW4H0O-26" value="- adresse : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-12" vertex="1">
           <mxGeometry y="108" width="140" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Q9exHpR4YVgt2Lzm4d1t-16" value="Structure" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
