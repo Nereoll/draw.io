@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:43:33.501Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="4GVd_X2nLhpr3tw4bfsw" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:58:54.295Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="FXYnK3CQyq5UhMvSIGtf" version="24.4.10" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="1669" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2863" dy="990" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
           <mxGeometry y="108" width="140" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Q9exHpR4YVgt2Lzm4d1t-16" value="Structure" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="122" width="180" height="283" as="geometry" />
+          <mxGeometry x="1320" y="122" width="180" height="311" as="geometry" />
         </mxCell>
         <mxCell id="Q9exHpR4YVgt2Lzm4d1t-17" value="&lt;div&gt;- nom : String&lt;/div&gt;&lt;div&gt;- type : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
           <mxGeometry y="26" width="180" height="33" as="geometry" />
@@ -164,14 +164,14 @@
         <mxCell id="Q9exHpR4YVgt2Lzm4d1t-19" value="&lt;div&gt;- heureOuverture : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- heureFermeture : int&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
           <mxGeometry y="113" width="180" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="3woJ1IVH_2ueYjXW4H0O-20" value="&lt;div&gt;- capacite : int&lt;/div&gt;&lt;div&gt;- extérieur : boolean&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
-          <mxGeometry y="155" width="180" height="51" as="geometry" />
+        <mxCell id="3woJ1IVH_2ueYjXW4H0O-20" value="&lt;div&gt;- capacite : int&lt;/div&gt;&lt;div&gt;- extérieur : boolean&lt;/div&gt;&lt;div&gt;-rooftop : boolean&lt;/div&gt;&lt;div&gt;-etage : int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
+          <mxGeometry y="155" width="180" height="73" as="geometry" />
         </mxCell>
         <mxCell id="3woJ1IVH_2ueYjXW4H0O-21" value="&lt;div&gt;- email : String&lt;/div&gt;&lt;div&gt;- etoiles : int&lt;/div&gt;&lt;div&gt;- avis : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
-          <mxGeometry y="206" width="180" height="57" as="geometry" />
+          <mxGeometry y="228" width="180" height="46" as="geometry" />
         </mxCell>
         <mxCell id="3woJ1IVH_2ueYjXW4H0O-22" value="- numeroTelephone : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Q9exHpR4YVgt2Lzm4d1t-16" vertex="1">
-          <mxGeometry y="263" width="180" height="20" as="geometry" />
+          <mxGeometry y="274" width="180" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Q9exHpR4YVgt2Lzm4d1t-20" value="Calendrier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="430" width="140" height="52" as="geometry" />
@@ -371,23 +371,23 @@
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.024;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X9ht4_rMk5e_lSbH_QnD-31" target="X9ht4_rMk5e_lSbH_QnD-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Structure&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- nom : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- adresse : String&lt;br&gt;&lt;/p&gt;&lt;div&gt;- heureOuverture : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- heureFermeture : int&lt;/div&gt;&lt;div&gt;&lt;div&gt;- capacite : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- email : String&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- numeroTelephone : String&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Structure()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getNom() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getAdresse() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getHeureOuverture() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getHeureFermeture() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getCapacite() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getEmail() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getNumeroTel() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setNom()&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setAdresse()&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setHeureOuverture()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setHeureFermeture()&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setCapacite()&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setEmail()&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+setNumeroTel()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ajouterEvenements()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+getEvenements()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2265" y="80" width="160" height="457" as="geometry" />
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Structure&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- nom : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-type : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- adresse : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- description : String&lt;br&gt;&lt;/p&gt;&lt;div&gt;- heureOuverture : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- heureFermeture : int&lt;/div&gt;&lt;div&gt;&lt;div&gt;- capacite : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- email : String&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- numeroTelephone : String&lt;/div&gt;&lt;div&gt;- image : String&lt;/div&gt;&lt;div&gt;- extérieur : boolean&lt;/div&gt;&lt;div&gt;- rooftop : boolean&lt;/div&gt;&lt;div&gt;- etage : int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- etoile : int&lt;/div&gt;&lt;div&gt;- avis : String&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Structure()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getNom() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getType() : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getAdresse() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getDescription() : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getHeureOuverture() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getHeureFermeture() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getCapacite() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getEmail() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getNumeroTel() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getImage() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getExtérieur() : String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getRooftop() : boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getEtage() : int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getEtoile(): int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+getAvis() : String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setNom()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setType()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setAdresse()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setDescription()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setHeureOuverture()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setHeureFermeture()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setCapacite()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEmail()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setNumeroTel()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setImage()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setExtérieur()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setRooftop()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEtage()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+setEtoile()&lt;br&gt;&lt;/p&gt;+setAvis()&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ajouterEvenements()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+getEvenements()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2368" y="93" width="160" height="799" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="X9ht4_rMk5e_lSbH_QnD-42" target="X9ht4_rMk5e_lSbH_QnD-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-42" value="BDE" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="141.5" width="190" height="290" as="geometry" />
+          <mxGeometry x="1760" y="141.5" width="190" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-43" value="- nom : String&lt;div&gt;- formation : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;- batiment : String&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-42" vertex="1">
-          <mxGeometry y="26" width="190" height="54" as="geometry" />
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-43" value="- nom : String&lt;div&gt;- formation : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;- adresse : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;- maill : String&lt;/div&gt;&lt;div&gt;- motDePasse : String&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-42" vertex="1">
+          <mxGeometry y="26" width="190" height="89" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-44" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="X9ht4_rMk5e_lSbH_QnD-42" vertex="1">
-          <mxGeometry y="80" width="190" height="8" as="geometry" />
+          <mxGeometry y="115" width="190" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-45" value="+ bde()&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getNom() : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getFormation() : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getBatiment() : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setNom()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+setFormation()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setBatiment()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ ajouterEvenementOrganises()&lt;/div&gt;&lt;div&gt;+ getEvenementOrganises()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-42" vertex="1">
-          <mxGeometry y="88" width="190" height="202" as="geometry" />
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-45" value="+ bde()&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getNom() : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getFormation() : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getAdresse() : String&lt;/div&gt;&lt;div&gt;+getMail() : String&lt;/div&gt;&lt;div&gt;+getmotDePasse : String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setNom()&lt;/div&gt;&lt;div&gt;&lt;div&gt;+setFormation()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setAdresse()&lt;/div&gt;&lt;div&gt;+setMail()&lt;/div&gt;&lt;div&gt;+setMotDePasse()&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ ajouterEvenementOrganises()&lt;/div&gt;&lt;div&gt;+ getEvenementOrganises()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-42" vertex="1">
+          <mxGeometry y="123" width="190" height="252" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-53" value="Evenement" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2015" y="499.5" width="160" height="240" as="geometry" />
@@ -401,11 +401,11 @@
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-56" value="+ Evenement()&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getDate() : String&lt;/div&gt;&lt;div&gt;+getHeureDebut() : int&lt;/div&gt;&lt;div&gt;+getHeureFin() : int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+setDate(date : String)&lt;/div&gt;&lt;div&gt;+setHeureDebut(int)&lt;/div&gt;&lt;div&gt;+setHeureFin(int)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="X9ht4_rMk5e_lSbH_QnD-53" vertex="1">
           <mxGeometry y="98" width="160" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="X9ht4_rMk5e_lSbH_QnD-63" value="Structures" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2275" y="541.5" width="65" height="26" as="geometry" />
+        <mxCell id="X9ht4_rMk5e_lSbH_QnD-63" value="structures" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2303" y="463" width="65" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-64" value="1, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2355" y="541.5" width="40" height="26" as="geometry" />
+          <mxGeometry x="2318" y="496" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-65" value="0, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2175" y="639.5" width="40" height="26" as="geometry" />
@@ -420,10 +420,10 @@
           <mxGeometry x="1975" y="639.5" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-71" value="bdeOrganises&amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="427.5" width="100" height="26" as="geometry" />
+          <mxGeometry x="1763" y="514.5" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-72" value="1, n" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="427.5" width="40" height="26" as="geometry" />
+          <mxGeometry x="1860" y="515.5" width="41" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.587;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=0;" parent="1" source="X9ht4_rMk5e_lSbH_QnD-73" target="X9ht4_rMk5e_lSbH_QnD-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -609,10 +609,10 @@
         <mxCell id="55kUeNKomVq2vSDQPSkZ-18" value="&lt;span id=&quot;docs-internal-guid-b1b4177d-7fff-79b1-9c31-2b294f1782c9&quot; style=&quot;font-size:11pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;UC4 Créer un compte de BDE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2037.5" y="1250" width="296" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-2" value="- date" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-2" value="- date" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="958" y="482" width="110" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-51">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1211" y="507" />
@@ -621,7 +621,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-4" value="evenements n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0M72lRbQ_tTJJ8ZMXWCu-3">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-4" value="evenements n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0M72lRbQ_tTJJ8ZMXWCu-3" vertex="1" connectable="0">
           <mxGeometry x="-0.8927" y="3" relative="1" as="geometry">
             <mxPoint x="118" y="-95" as="offset" />
           </mxGeometry>
