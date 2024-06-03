@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:14:44.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dAdDtllusJuGAMeHCG2O" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:17:33.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZttrGgPX3-92bRy6QfYm" version="24.4.10" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="2428" dy="955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2303" dy="882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,90 +137,14 @@
         <mxCell id="SV50AntmqxMznZXikPVk-33" value="UC2 " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="389" y="580" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-4" value="&lt;u&gt;Informatique : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="908" y="671.5" width="286" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-5" value="&lt;div&gt;nom = BDE NPE&lt;/div&gt;&lt;div&gt;email = npe@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x0r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Informatique&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse =&amp;nbsp;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; data-sb=&quot;/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=/maps/place//data%3D!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAg_EAM&amp;amp;usg=AOvVaw2bVKzTzcAoW_xijpnj3lqk&quot; tabindex=&quot;0&quot; data-url=&quot;/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAgREAA&quot; style=&quot;cursor:pointer&quot; href=&quot;https://www.google.com/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111&quot;&gt;&lt;span&gt;2 Pl. Doyen Gosse, 38000 Grenoble&lt;/span&gt;&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-4" vertex="1">
-          <mxGeometry y="26" width="286" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-9" value="&lt;u&gt;tordBoyaux : Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="660" width="360" height="213" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-10" value="&lt;div&gt;nom = tordBoyaux&lt;/div&gt;&lt;div&gt;type = bar&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = 4 Rue Auguste Gaché, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;bon bar avec une vie de nuit&quot;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 18&lt;/div&gt;&lt;div&gt;heureFermeture = 2&lt;/div&gt;&lt;div&gt;&lt;div&gt;email = &lt;span&gt;tordboyaux38&lt;/span&gt;&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [4,5,3]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 50&lt;/div&gt;&lt;div&gt;exterieur=true&lt;br&gt;&lt;/div&gt;&lt;div&gt;numeroTelephone = &lt;span&gt;&lt;span class=&quot;LrzXr zdqRlf kno-fv&quot;&gt;&lt;span data-local-attribute=&quot;d3ph&quot; data-dtype=&quot;d3ph&quot;&gt;&lt;span&gt;&quot;04 76 44 18 90&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-9" vertex="1">
-          <mxGeometry y="26" width="360" height="187" as="geometry" />
-        </mxCell>
         <mxCell id="99m4UbLM17kgjPSCj8Z3-16" value="Diagramme de classes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="24" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="99m4UbLM17kgjPSCj8Z3-17" value="Diagramme d&#39;objets " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1147" y="580" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-18" value="&lt;u&gt;SoiréeBdeAuTB : Evenement&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="878" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-19" value="&lt;div&gt;date = 01/06/2024&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureDebut = 20&lt;br&gt;&lt;/div&gt;&lt;div&gt;heureFin = 2&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;bdeOrganise = [BDE NPE]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;structure = [ tordBoyaux ]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-18" vertex="1">
-          <mxGeometry y="26" width="200" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-21" value="&lt;u&gt;Calendrier : Calendrier&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1070" width="347" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-22" value="&lt;div&gt;- dates : [01/06/2024:SoiréeBdeAuTB, 02/06/2024:false, ...]&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-21" vertex="1">
-          <mxGeometry y="26" width="347" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" target="99m4UbLM17kgjPSCj8Z3-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1290" y="754" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="99m4UbLM17kgjPSCj8Z3-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1194.0000000000005" y="778.5238095238094" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1194" y="799" />
-              <mxPoint x="1195" y="799" />
-              <mxPoint x="1195" y="842" />
-              <mxPoint x="1161" y="842" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HHiWm6_Z4Rj82QOO5koe-2" value="Cas d&#39;utilisation : le BDE informatique NPE, en collaboration avec le BDE de Droit réserve un bar et une boite de nuit" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1210" width="340" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-45" value="&lt;u&gt;SoiréeBdeAuTB : Evenement&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1452" width="230" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-46" value="&lt;div&gt;date = 25/03/2024&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureDebut = 20&lt;br&gt;&lt;/div&gt;&lt;div&gt;heureFin = 2&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;bdeOrganise = [BDE NPE, BDE DROIT]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;structure = [ tordBoyaux ]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-45" vertex="1">
-          <mxGeometry y="26" width="230" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-47" value="&lt;u&gt;Calendrier : Calendrier&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="808" y="1638.5" width="358" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-48" value="&lt;div&gt;&lt;div&gt;- dates : [01/03/2024:SoiréeBdeAuTB, 02/06/2024:false, ...]&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-47" vertex="1">
-          <mxGeometry y="26" width="358" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-52" value="&lt;u&gt;Informatique : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="757" y="1246" width="170" height="162" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-55" value="&lt;div&gt;nom = BDE NPE&lt;/div&gt;&lt;div&gt;email = npe@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x0r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Informatique&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse =&amp;nbsp;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; data-sb=&quot;/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=/maps/place//data%3D!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAg_EAM&amp;amp;usg=AOvVaw2bVKzTzcAoW_xijpnj3lqk&quot; tabindex=&quot;0&quot; data-url=&quot;/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAgREAA&quot; style=&quot;cursor:pointer&quot; href=&quot;https://www.google.com/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111&quot;&gt;&lt;span&gt;2 Pl. Doyen Gosse, 38000 Grenoble&lt;/span&gt;&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-52" vertex="1">
-          <mxGeometry y="26" width="170" height="136" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-64" value="&lt;u&gt;tordBoyaux : Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1267" width="360" height="206" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-65" value="&lt;div&gt;nom = tordBoyaux&lt;/div&gt;&lt;div&gt;type = bar&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = 4 Rue Auguste Gaché, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;bon bar avec une vie de nuit&quot;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 18&lt;/div&gt;&lt;div&gt;heureFermeture = 2&lt;/div&gt;&lt;div&gt;&lt;div&gt;email = &lt;span&gt;tordboyaux38&lt;/span&gt;&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [4,5,3]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 50&lt;/div&gt;&lt;div&gt;exterieur=true&lt;br&gt;&lt;/div&gt;&lt;div&gt;numeroTelephone = &lt;span&gt;&lt;span class=&quot;LrzXr zdqRlf kno-fv&quot;&gt;&lt;span data-local-attribute=&quot;d3ph&quot; data-dtype=&quot;d3ph&quot;&gt;&lt;span&gt;&quot;04 76 44 18 90&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-64" vertex="1">
-          <mxGeometry y="26" width="360" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-72" value="&lt;u&gt;DROIT : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1830" width="170" height="141" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-73" value="&lt;div&gt;nom = BDE DROIT&lt;/div&gt;&lt;div&gt;email = droit@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x1r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Droit&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse = La fac &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-72" vertex="1">
-          <mxGeometry y="26" width="170" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-77" value="&lt;u&gt;le Marquee: Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1550" width="360" height="209" as="geometry" />
-        </mxCell>
-        <mxCell id="HHiWm6_Z4Rj82QOO5koe-83" value="&lt;div&gt;nom = le Marquee&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;type = &quot;boite de nuit&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = xxx, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;boite pas ouf&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 23&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureFermeture = 7&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;email = xxx&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [1,1,2]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 80&lt;/div&gt;&lt;div&gt;exterieur=false&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;numeroTelephone = xx xx xx xx xx&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-77" vertex="1">
-          <mxGeometry y="26" width="360" height="183" as="geometry" />
         </mxCell>
         <mxCell id="HHiWm6_Z4Rj82QOO5koe-85" value="Cas d&#39;utilisation : le BDE informatique NPE réserve un bar " style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="620" width="340" height="20" as="geometry" />
@@ -536,27 +460,109 @@
         <mxCell id="r2Nrka230JW7idKYyHgx-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;n&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="r2Nrka230JW7idKYyHgx-2" vertex="1">
           <mxGeometry x="257.5" y="304" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="99m4UbLM17kgjPSCj8Z3-21" target="99m4UbLM17kgjPSCj8Z3-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pnxgCoHKQQj3VH739VhD-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="908" y="660" width="742" height="464" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-55" target="HHiWm6_Z4Rj82QOO5koe-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-4" value="&lt;u&gt;Informatique : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
+          <mxGeometry y="11.5" width="286" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-46" target="HHiWm6_Z4Rj82QOO5koe-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-5" value="&lt;div&gt;nom = BDE NPE&lt;/div&gt;&lt;div&gt;email = npe@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x0r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Informatique&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse =&amp;nbsp;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; data-sb=&quot;/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=/maps/place//data%3D!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAg_EAM&amp;amp;usg=AOvVaw2bVKzTzcAoW_xijpnj3lqk&quot; tabindex=&quot;0&quot; data-url=&quot;/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAgREAA&quot; style=&quot;cursor:pointer&quot; href=&quot;https://www.google.com/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111&quot;&gt;&lt;span&gt;2 Pl. Doyen Gosse, 38000 Grenoble&lt;/span&gt;&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-4" vertex="1">
+          <mxGeometry y="26" width="286" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-45" target="HHiWm6_Z4Rj82QOO5koe-83" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-9" value="&lt;u&gt;tordBoyaux : Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
+          <mxGeometry x="382" width="360" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.771;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-45" target="HHiWm6_Z4Rj82QOO5koe-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-10" value="&lt;div&gt;nom = tordBoyaux&lt;/div&gt;&lt;div&gt;type = bar&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = 4 Rue Auguste Gaché, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;bon bar avec une vie de nuit&quot;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 18&lt;/div&gt;&lt;div&gt;heureFermeture = 2&lt;/div&gt;&lt;div&gt;&lt;div&gt;email = &lt;span&gt;tordboyaux38&lt;/span&gt;&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [4,5,3]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 50&lt;/div&gt;&lt;div&gt;exterieur=true&lt;br&gt;&lt;/div&gt;&lt;div&gt;numeroTelephone = &lt;span&gt;&lt;span class=&quot;LrzXr zdqRlf kno-fv&quot;&gt;&lt;span data-local-attribute=&quot;d3ph&quot; data-dtype=&quot;d3ph&quot;&gt;&lt;span&gt;&quot;04 76 44 18 90&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-9" vertex="1">
+          <mxGeometry y="26" width="360" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="d4dqzK-viT2WT3k7YYiD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="HHiWm6_Z4Rj82QOO5koe-46" target="HHiWm6_Z4Rj82QOO5koe-73" edge="1">
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-18" value="&lt;u&gt;SoiréeBdeAuTB : Evenement&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
+          <mxGeometry x="92" y="218" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-19" value="&lt;div&gt;date = 01/06/2024&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureDebut = 20&lt;br&gt;&lt;/div&gt;&lt;div&gt;heureFin = 2&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;bdeOrganise = [BDE NPE]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;structure = [ tordBoyaux ]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-18" vertex="1">
+          <mxGeometry y="26" width="200" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-21" value="&lt;u&gt;Calendrier : Calendrier&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
+          <mxGeometry x="122" y="410" width="347" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-22" value="&lt;div&gt;- dates : [01/06/2024:SoiréeBdeAuTB, 02/06/2024:false, ...]&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-21" vertex="1">
+          <mxGeometry y="26" width="347" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-1" target="99m4UbLM17kgjPSCj8Z3-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="765" y="1922" as="targetPoint" />
+            <mxPoint x="382" y="94" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-1" target="99m4UbLM17kgjPSCj8Z3-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286.00000000000045" y="118.5238095238094" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="766" y="1545" />
-              <mxPoint x="766" y="1914" />
+              <mxPoint x="286" y="139" />
+              <mxPoint x="287" y="139" />
+              <mxPoint x="287" y="182" />
+              <mxPoint x="253" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-1" source="99m4UbLM17kgjPSCj8Z3-21" target="99m4UbLM17kgjPSCj8Z3-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pnxgCoHKQQj3VH739VhD-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="757" y="1246" width="843" height="725" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-45" value="&lt;u&gt;SoiréeBdeAuTB : Evenement&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry x="203" y="206" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-46" value="&lt;div&gt;date = 25/03/2024&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureDebut = 20&lt;br&gt;&lt;/div&gt;&lt;div&gt;heureFin = 2&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;bdeOrganise = [BDE NPE, BDE DROIT]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;structure = [ tordBoyaux ]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-45" vertex="1">
+          <mxGeometry y="26" width="230" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-47" value="&lt;u&gt;Calendrier : Calendrier&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry x="51" y="392.5" width="358" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-48" value="&lt;div&gt;&lt;div&gt;- dates : [01/03/2024:SoiréeBdeAuTB, 02/06/2024:false, ...]&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-47" vertex="1">
+          <mxGeometry y="26" width="358" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-52" value="&lt;u&gt;Informatique : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry width="170" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-55" value="&lt;div&gt;nom = BDE NPE&lt;/div&gt;&lt;div&gt;email = npe@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x0r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Informatique&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse =&amp;nbsp;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; data-sb=&quot;/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=/maps/place//data%3D!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494%3Fsa%3DX%26ved%3D1t:8290%26ictx%3D111&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAg_EAM&amp;amp;usg=AOvVaw2bVKzTzcAoW_xijpnj3lqk&quot; tabindex=&quot;0&quot; data-url=&quot;/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=2ahUKEwiq-PeSgbWGAxVxRvEDHTodD7MQ4kB6BAgREAA&quot; style=&quot;cursor:pointer&quot; href=&quot;https://www.google.com/maps/place//data=!4m2!3m1!1s0x478af486d4db2145:0x5855b4bb6787a494?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111&quot;&gt;&lt;span&gt;2 Pl. Doyen Gosse, 38000 Grenoble&lt;/span&gt;&lt;/a&gt; &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-52" vertex="1">
+          <mxGeometry y="26" width="170" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-64" value="&lt;u&gt;tordBoyaux : Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry x="483" y="21" width="360" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-65" value="&lt;div&gt;nom = tordBoyaux&lt;/div&gt;&lt;div&gt;type = bar&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = 4 Rue Auguste Gaché, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;bon bar avec une vie de nuit&quot;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 18&lt;/div&gt;&lt;div&gt;heureFermeture = 2&lt;/div&gt;&lt;div&gt;&lt;div&gt;email = &lt;span&gt;tordboyaux38&lt;/span&gt;&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [4,5,3]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 50&lt;/div&gt;&lt;div&gt;exterieur=true&lt;br&gt;&lt;/div&gt;&lt;div&gt;numeroTelephone = &lt;span&gt;&lt;span class=&quot;LrzXr zdqRlf kno-fv&quot;&gt;&lt;span data-local-attribute=&quot;d3ph&quot; data-dtype=&quot;d3ph&quot;&gt;&lt;span&gt;&quot;04 76 44 18 90&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-64" vertex="1">
+          <mxGeometry y="26" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-72" value="&lt;u&gt;DROIT : BDE&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry x="93" y="584" width="170" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-73" value="&lt;div&gt;nom = BDE DROIT&lt;/div&gt;&lt;div&gt;email = droit@gmail.com&lt;/div&gt;&lt;div&gt;motDePasse = H4x1r&lt;/div&gt;&lt;div&gt;&lt;div&gt;formation = Droit&lt;/div&gt;&lt;div&gt;evenementOrganises = SoiréeBdeAuTB&lt;/div&gt;&lt;div&gt;adresse = La fac &lt;/div&gt; &lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-72" vertex="1">
+          <mxGeometry y="26" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-77" value="&lt;u&gt;le Marquee: Structure&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-2" vertex="1">
+          <mxGeometry x="483" y="304" width="360" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="HHiWm6_Z4Rj82QOO5koe-83" value="&lt;div&gt;nom = le Marquee&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;type = &quot;boite de nuit&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;adresse = xxx, 38000 Grenoble&lt;/div&gt;&lt;div&gt;description = &quot;boite pas ouf&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;image =&quot;../media/....png&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureOuverture = 23&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureFermeture = 7&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;email = xxx&lt;span&gt;@gmail&lt;/span&gt;&lt;span&gt;.com&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;etoiles = [1,1,2]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;capacite = 80&lt;/div&gt;&lt;div&gt;exterieur=false&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;numeroTelephone = xx xx xx xx xx&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HHiWm6_Z4Rj82QOO5koe-77" vertex="1">
+          <mxGeometry y="26" width="360" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-2" source="HHiWm6_Z4Rj82QOO5koe-55" target="HHiWm6_Z4Rj82QOO5koe-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-2" source="HHiWm6_Z4Rj82QOO5koe-46" target="HHiWm6_Z4Rj82QOO5koe-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-2" source="HHiWm6_Z4Rj82QOO5koe-45" target="HHiWm6_Z4Rj82QOO5koe-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.771;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-2" source="HHiWm6_Z4Rj82QOO5koe-45" target="HHiWm6_Z4Rj82QOO5koe-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4dqzK-viT2WT3k7YYiD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="pnxgCoHKQQj3VH739VhD-2" source="HHiWm6_Z4Rj82QOO5koe-46" target="HHiWm6_Z4Rj82QOO5koe-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8" y="676" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="9" y="299" />
+              <mxPoint x="9" y="668" />
             </Array>
           </mxGeometry>
         </mxCell>
