@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T09:41:17.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="XR1gNl424bDy0RyKXq5k" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T09:42:39.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sy-tQPu4U6fK_RTChB8a" version="24.4.13" type="github">
   <diagram name="Page-1" id="fd_hAKjFNYpGGn4z0pOC">
-    <mxGraphModel dx="2176" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2576" dy="1042" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,10 +293,13 @@
         <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-2" value="- date" style="html=1;whiteSpace=wrap;" parent="r2Nrka230JW7idKYyHgx-2" vertex="1">
           <mxGeometry x="92" y="382" width="51" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="r2Nrka230JW7idKYyHgx-2" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-52" edge="1">
+        <mxCell id="0M72lRbQ_tTJJ8ZMXWCu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="r2Nrka230JW7idKYyHgx-2" source="0M72lRbQ_tTJJ8ZMXWCu-2" target="3woJ1IVH_2ueYjXW4H0O-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="253" y="407" />
+              <mxPoint x="253" y="317" />
+              <mxPoint x="254" y="317" />
+              <mxPoint x="253" y="316" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -308,7 +311,7 @@
         <mxCell id="r2Nrka230JW7idKYyHgx-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;n&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="r2Nrka230JW7idKYyHgx-2" vertex="1">
           <mxGeometry x="257.5" y="304" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r2Nrka230JW7idKYyHgx-2" source="X9ht4_rMk5e_lSbH_QnD-86" target="Q9exHpR4YVgt2Lzm4d1t-19">
+        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="r2Nrka230JW7idKYyHgx-2" source="X9ht4_rMk5e_lSbH_QnD-86" target="Q9exHpR4YVgt2Lzm4d1t-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="244" />
@@ -333,10 +336,10 @@
           <mxGeometry y="26" width="360" height="187" as="geometry" />
         </mxCell>
         <mxCell id="99m4UbLM17kgjPSCj8Z3-18" value="&lt;u&gt;SoiréeBdeAuTB : Evenement&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
-          <mxGeometry x="92" y="218" width="200" height="140" as="geometry" />
+          <mxGeometry x="92" y="218" width="200" height="151" as="geometry" />
         </mxCell>
-        <mxCell id="99m4UbLM17kgjPSCj8Z3-19" value="&lt;div&gt;date = 01/06/2024&lt;/div&gt;&lt;div&gt;&lt;div&gt;heureDebut = 20&lt;br&gt;&lt;/div&gt;&lt;div&gt;heureFin = 2&lt;/div&gt;&lt;div&gt;nomEvenement = &quot;&lt;u&gt;SoiréeBdeAuTB&quot; &lt;/u&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;bdeOrganise = [BDE NPE]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;structure = [ TordBoyaux ]&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-18" vertex="1">
-          <mxGeometry y="26" width="200" height="114" as="geometry" />
+        <mxCell id="99m4UbLM17kgjPSCj8Z3-19" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;date = 01/06/2024&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;heureDébut = 20&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;heureFin = 2&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;nomEvenement =&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;SoiréeBdeAuTB&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;bdeOrganiser = [BDE NPE]&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;structure = [ tordBoyaux ]&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="99m4UbLM17kgjPSCj8Z3-18" vertex="1">
+          <mxGeometry y="26" width="200" height="125" as="geometry" />
         </mxCell>
         <mxCell id="99m4UbLM17kgjPSCj8Z3-21" value="&lt;u&gt;Calendrier : Calendrier&lt;/u&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-1" vertex="1">
           <mxGeometry x="122" y="410" width="347" height="54" as="geometry" />
@@ -567,13 +570,13 @@
         <mxCell id="X9ht4_rMk5e_lSbH_QnD-80" value="&lt;div&gt;-date&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-3" vertex="1">
           <mxGeometry x="100" y="817" width="112.5" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-1" value="Calendrier" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="pnxgCoHKQQj3VH739VhD-3">
+        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-1" value="Calendrier" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="pnxgCoHKQQj3VH739VhD-3" vertex="1">
           <mxGeometry x="81" y="714" width="160" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="CLBH2q50ZqO7mQ7pQa8A-1">
+        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="CLBH2q50ZqO7mQ7pQa8A-1" vertex="1">
           <mxGeometry y="26" width="160" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-4" value="&lt;div&gt;+Calendrier&lt;/div&gt;&lt;div&gt;&lt;div&gt;+getDate() : String&lt;/div&gt;&lt;div&gt;+setDate() &lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CLBH2q50ZqO7mQ7pQa8A-1">
+        <mxCell id="CLBH2q50ZqO7mQ7pQa8A-4" value="&lt;div&gt;+Calendrier&lt;/div&gt;&lt;div&gt;&lt;div&gt;+getDate() : String&lt;/div&gt;&lt;div&gt;+setDate() &lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CLBH2q50ZqO7mQ7pQa8A-1" vertex="1">
           <mxGeometry y="50" width="160" height="53" as="geometry" />
         </mxCell>
       </root>
