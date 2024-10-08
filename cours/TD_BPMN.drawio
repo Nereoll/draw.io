@@ -150,7 +150,7 @@
         <mxCell id="IVteL6hl-BJ2XIqQ1IyN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ghEgp-OwD1J704yQH-gl-75" source="IVteL6hl-BJ2XIqQ1IyN-7" target="ghEgp-OwD1J704yQH-gl-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IVteL6hl-BJ2XIqQ1IyN-7" value="Approbation automatique de la demande" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="ghEgp-OwD1J704yQH-gl-75">
+        <mxCell id="IVteL6hl-BJ2XIqQ1IyN-7" value="Demande approuver automatiquement" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="ghEgp-OwD1J704yQH-gl-75">
           <mxGeometry x="85.24096385542168" y="378.80597014925377" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IVteL6hl-BJ2XIqQ1IyN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ghEgp-OwD1J704yQH-gl-75" source="IVteL6hl-BJ2XIqQ1IyN-4" target="IVteL6hl-BJ2XIqQ1IyN-7">
