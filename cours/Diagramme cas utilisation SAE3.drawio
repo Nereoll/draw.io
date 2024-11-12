@@ -1,77 +1,77 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.4">
   <diagram name="Page-1" id="UtBNDfn8IIDB6-av0K0q">
-    <mxGraphModel dx="2228" dy="785" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="523" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fJX49_q2fESSbCwYfbrY-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="340" height="500" as="geometry" />
+          <mxGeometry x="473" y="123" width="340" height="500" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1000" width="580" height="760" as="geometry" />
+          <mxGeometry x="838" y="134" width="498" height="760" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tl4poTx89u1U0Vo0xO1h-1" target="tl4poTx89u1U0Vo0xO1h-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-1" value="Joueur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1220" width="210" height="320" as="geometry" />
+          <mxGeometry x="1427" y="354" width="210" height="320" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tl4poTx89u1U0Vo0xO1h-4" target="fJX49_q2fESSbCwYfbrY-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-4" value="Association" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="205" width="210" height="350" as="geometry" />
+          <mxGeometry x="53" y="198" width="210" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=164;tabHeight=40;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1020" width="304" height="445" as="geometry" />
+          <mxGeometry x="862" y="154" width="304" height="445" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-78" value="modification informations compte" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="2090" width="120" height="80" as="geometry" />
+          <mxGeometry x="412" y="1042" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-5" value="Gestion des actions du jeu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1027.6399999999999" width="160" height="30" as="geometry" />
+          <mxGeometry x="862" y="161.63999999999987" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-57" value="Résolution d&#39;énigmes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1116" width="120" height="80" as="geometry" />
+          <mxGeometry x="958" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-58" value="Déblocage du phare" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="326" y="1226" width="120" height="80" as="geometry" />
+          <mxGeometry x="954" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-61" value="Prise de photo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1336" width="120" height="80" as="geometry" />
+          <mxGeometry x="958" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-6" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=140;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1486" width="230" height="270" as="geometry" />
+          <mxGeometry x="888" y="620" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-69" value="Gestion de la boutique" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1486" width="140" height="30" as="geometry" />
+          <mxGeometry x="888" y="620" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-67" value="Achat de jetons" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="1536.0000000000002" width="120" height="80" as="geometry" />
+          <mxGeometry x="943" y="670.0000000000002" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-68" value="Achat de DLC" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="1651.0000000000002" width="120" height="80" as="geometry" />
+          <mxGeometry x="943" y="785.0000000000002" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-45" value="Réserver une place à un evenement depuis le site" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1246" width="210" height="80" as="geometry" />
+          <mxGeometry x="1116" y="644" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fJX49_q2fESSbCwYfbrY-8" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=230;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="344" y="170" width="260" height="440" as="geometry" />
+          <mxGeometry x="497" y="163" width="260" height="440" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-40" value="Actions d&#39;organisation d&#39;evenement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="344" y="170" width="210" height="30" as="geometry" />
+          <mxGeometry x="497" y="163" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-11" value="Suppression d&#39;un événement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="573" y="213" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-12" value="Modification d&#39;un événement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="573" y="303" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-10" value="Ajout d&#39;un evenement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="573" y="393" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tl4poTx89u1U0Vo0xO1h-9" value="Rechercher les événements" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="505" width="120" height="80" as="geometry" />
+          <mxGeometry x="567" y="498" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
