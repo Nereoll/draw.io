@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.9.1">
   <diagram name="Page-1" id="SGuTAacbaMtulcwTuquY">
-    <mxGraphModel dx="1438" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,6 +206,18 @@
         </mxCell>
         <mxCell id="BdW1mJb_gRPBtspxeP2n-56" value="Directeur commercial" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="2010" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BdW1mJb_gRPBtspxeP2n-62" value="Analyser demande service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BdW1mJb_gRPBtspxeP2n-63" value="Initialiser de compagnie de formation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BdW1mJb_gRPBtspxeP2n-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.667;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BdW1mJb_gRPBtspxeP2n-50" target="BdW1mJb_gRPBtspxeP2n-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1340" as="sourcePoint" />
+            <mxPoint x="140" y="1290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
